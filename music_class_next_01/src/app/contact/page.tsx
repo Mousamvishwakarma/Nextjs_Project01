@@ -15,8 +15,7 @@ function MusicSchoolContactUs() {
   return (
     <div className="min-h-screen bg-gray-100 dark:bg-gray-900 py-12 pt-36 relative">
       {' '}
-      {/* Ensure the container is relative */}
-      {/* BackgroundBeams with adjusted z-index */}
+  
       <BackgroundBeams className="absolute top-0 left-0 w-full h-full z-0" />
       {/* Content with higher z-index */}
       <div className="max-w-2xl mx-auto p-4 relative z-10">
